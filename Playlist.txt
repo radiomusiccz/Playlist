@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8">
+  <title>Gold Radio – Playlist</title>
+  <meta http-equiv="refresh" content="300"> <!-- Automatická aktualizace každých 5 minut -->
+  <style>
+    body { font-family: Arial, sans-serif; background: #111; color: #eee; padding: 20px; }
+    h1 { color: gold; }
+    table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+    th, td { padding: 8px 12px; border-bottom: 1px solid #444; }
+    th { background: #222; }
+    tr:hover { background: #333; }
+  </style>
+</head>
+<body>
+  <h1>🎶 Gold Radio – Playlist</h1>
+  <table>
+    <tr><th>Čas</th><th>Interpret</th><th>Skladba</th><th>Posluchači</th></tr>
+    <tr><td>00:37</td><td>Wham!</td><td>Wake Me Up Before You Go-Go</td><td>1</td></tr>
+    <tr><td>00:33</td><td>ABBA</td><td>My Love, My Life</td><td>1</td></tr>
+    <tr><td>00:30</td><td>Modern Talking</td><td>Taxi Girl</td><td>1</td></tr>
+    <tr><td>00:26</td><td>ABBA</td><td>Slipping through my Fingers</td><td>1</td></tr>
+    <tr><td>00:22</td><td>Al Bano & Romina Power</td><td>Sempre Sempre</td><td>1</td></tr>
+    <tr><td>00:18</td><td>Scatman John</td><td>Scatman's World</td><td>1</td></tr>
+    <tr><td>00:15</td><td>Boney M.</td><td>Sunny</td><td>1</td></tr>
+    <tr><td>00:11</td><td>Chris Norman</td><td>Midnight Lady</td><td>1</td></tr>
+    <tr><td>00:07</td><td>Mike Oldfield</td><td>Man in the Rain</td><td>1</td></tr>
+    <tr><td>00:04</td><td>Teddy Swims</td><td>Bad Dreams</td><td>1</td></tr>
+  </table>
+</body>
+</html>
